@@ -22,7 +22,4 @@ A robust Supply Chain Management System built with **Spring Boot (Java)** and **
 
 
 
-🚀 **Getting Started:**  
 
-1. **Clone the repository:**  
-git clone https://github.com/yourusername/supply-chain-management-system.git
